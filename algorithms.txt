@@ -1,0 +1,28 @@
+Random Forest
+Testing Set Evaluation Metrics:
+Precision: 0.4706
+Recall: 0.0354
+F1 Score: 0.06584
+Weighted F1 Score: 0.9041
+
+Baseline Logic Regression
+Testing Set Evaluation Metrics:
+Precision: 0.2199
+Recall: 0.6799
+F1 Score: 0.3324
+Weighted F1 Score: 0.8551
+
+Naive Bayes
+Testing Set Evaluation Metrics:
+Precision: 0.3834
+Recall: 0.1091
+F1 Score: 0.1699
+Weighted F1 Score: 0.9088
+
+SVM 
+Testing Set Evaluation Metrics:
+Precision: 0.3176
+Recall: 0.3378
+F1 Score: 0.3274
+Weighted F1 Score: 0.9076
+
